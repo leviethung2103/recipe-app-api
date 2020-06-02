@@ -1,2 +1,2 @@
 flake8>=3.6.0,<3.7.0
-opencv-python==4.2.0.34
+opencv-python>4.2.0
