@@ -1,3 +1,2 @@
-Pillow>=5.3.0,<5.4.0
-
 flake8>=3.6.0,<3.7.0
+opencv-python
